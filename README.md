@@ -1,4 +1,4 @@
-# Hello there, I'm Abdul Khan! 👋
+# Hello there, I'm Abdul Khan!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulsamadzkhan/">
@@ -14,16 +14,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a passionate and driven **Master's student in Computer Engineering at New York University (NYU)** with a strong foundation in software development, machine learning, and infrastructure design. I thrive on solving complex problems and have a keen interest in leveraging technology to build innovative and impactful solutions.
 
-- 🎓 **MS in Computer Engineering** graduate from NYU.
-- 💡 Interested in **Machine Learning, Deep Learning, Quantum Computing, and Full-Stack Development**.
+- **MS in Computer Engineering** graduate from NYU.
+- Interested in **Machine Learning, Deep Learning, Quantum Computing, and Full-Stack Development**.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project Name                               | Description                                                                                                                                                             | Tech Stack                                                                    |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ I'm a passionate and driven **Master's student in Computer Engineering at New Yo
 ---
 -->
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **AI & Machine Learning:**
 - PyTorch & TensorFlow
