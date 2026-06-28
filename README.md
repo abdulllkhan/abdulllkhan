@@ -1,75 +1,47 @@
-# Hello there, I'm Abdul Khan!
+<h1 align="center">Hi, I'm Abdul Samad Zaheer Khan 👋</h1>
+<h3 align="center">Founding Engineer @ Starboard · AI Systems & Autonomous Agents · MS Computer Engineering, NYU</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulsamadzkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://opensigmoid.com/">
-    <img src="https://img.shields.io/badge/Try_OpenSigmoid-DA70D6?style=for-the-badge&logo=rocket&logoColor=white" alt="Try OpenSigmoid Website">
-  </a>
-  <a href="https://abdulllkhan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio Website">
-  </a>
+  <a href="https://abdulllkhan.github.io/"><img src="https://img.shields.io/badge/Portfolio-1F6F9F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/abdulsamadzkhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://opensigmoid.com/"><img src="https://img.shields.io/badge/Try_OpenSigmoid-DA70D6?style=for-the-badge&logo=rocket&logoColor=white" alt="OpenSigmoid"></a>
+  <a href="https://squaris.vercel.app/"><img src="https://img.shields.io/badge/Play_Squaris-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Play Squaris"></a>
 </p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a passionate and driven **Master's student in Computer Engineering at New York University (NYU)** with a strong foundation in software development, machine learning, and infrastructure design. I thrive on solving complex problems and have a keen interest in leveraging technology to build innovative and impactful solutions.
+I'm a **Founding Engineer at Starboard** and an **MS in Computer Engineering** graduate from **NYU**, specializing in AI systems, multi-agent architectures, and applied machine learning. I build production-grade AI — from fine-tuning LLMs to deploying autonomous agent systems that solve real-world logistics and data-processing problems.
 
-- **MS in Computer Engineering** graduate from NYU.
-- Interested in **Machine Learning, Deep Learning, Quantum Computing, and Full-Stack Development**.
-
----
-
-### Featured Projects
-
-| Project Name                               | Description                                                                                                                                                             | Tech Stack                                                                    |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **OpenSigmoid - Web3 Messaging** | A decentralized, end-to-end encrypted messaging platform with wallet integration and real-time communication.                                                              | `React`, `Node.js`, `WebSockets`, `Solana`, `Ethereum`                        |
-| **chromeControl - Productivity Tool** | A chrome sidebar to skip frequent trips between the chatbot and the work page                                                              | `TypeScript`                      |
-| **Quantum-Classical NN for Cancer Risk** | A hybrid quantum-classical neural network to predict lung cancer risk from CT scans, leveraging quantum mechanics for enhanced computation.                                 | `Python`, `Qiskit`, `PyTorch`                                                 |
-| **Stock Direction Prediction** | Fine-tuned language models to analyze Reddit sentiment and predict stock price movements for GameStop (GME) with a Random Forest model.                                     | `Python`, `BERT`, `Gemma`, `Llama`, `Scikit-learn`                              |
-| **Enterprise Limit Management System** | An enterprise-grade system to calculate and monitor financial exposure for over 35 million customers, preventing constraint breaches.                                      | `Java`, `Spring Boot`, `MySQL`, `Liquibase`, `Gradle`                           |
-| **QubitQuery RAG Assistant** | A self-contained RAG assistant built to query lecture notes, utilizing OpenAI for embeddings and a FAISS vector database for efficient retrieval.                          | `LangChain`, `OpenAI API`, `FAISS`, `Python`                                  |
-
----
-<!--  
-### 💼 Work Experience
-
-- **Research Intern @ New York University** (Jan 2025 - May 2025)
-  - Built and optimized a hybrid classical-quantum neural network for medical imaging analysis.
-
-- **Software Development Intern @ Tiny Archives** (Sep 2024 - Dec 2024)
-  - Developed and maintained scalable backend systems using Python, Django, and PostgreSQL.
-
-- **Software Development Engineer @ Finflux** (Nov 2022 - Jul 2023)
-  - Engineered the Enterprise Limit Management System and resolved critical bugs in the Loan Management System.
-
----
--->
-
-### Technical Skills
-
-**AI & Machine Learning:**
-- PyTorch & TensorFlow
-- LangChain & LlamaIndex
-- Retrieval Augmented Generation (RAG)
-- Vector Databases (FAISS, Chroma)
-- Scikit-learn, Pandas, NumPy
-
-**DevOps & Cloud:**
-- Docker & Kubernetes
-- CI/CD (Jenkins, ArgoCD)
-- REST APIs & FastAPI
-- AWS, Azure, GCP
-
-**Languages & Frameworks:**
-- Go, Java (Spring Boot), Python, C/C++, R
-- JavaScript/TypeScript, React, Angular, Node.js, Express.js
-- Qiskit
+- Currently building **multi-agent systems & data pipelines** that autonomously process logistics data at Starboard.
+- Into **AI agents, multi-agent systems, RAG, quantum computing**, and full-stack engineering.
+- Away from the keyboard: competitive **contract bridge & poker**, and an interest in strategy games.
 
 ---
 
-Thanks for stopping by!
+### 💼 Experience
+
+- **Founding Engineer** — Starboard · *Oct 2025 – Present*
+  Multi-agent systems with tool use that autonomously process shipment tracking, monitor carrier portals, and reconcile data across logistics platforms; fine-tuned open-source LLMs for document parsing.
+- **Research Intern** — New York University (CQIP) · *Jan 2025 – May 2025*
+  Built a hybrid classical–quantum neural network estimating six-year lung-cancer risk from a single low-dose CT scan.
+- **Software Development Intern** — Tiny Archives · *Sep 2024 – Dec 2024*
+  Built and scaled backend archival systems with Python, Django, and PostgreSQL.
+- **Software Development Engineer I** — Finflux · *Nov 2022 – Jul 2023*
+  Built ELMS (exposure engine for 35M+ customers) and resolved production issues in the core Loan Management System.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[OpenSigmoid](https://opensigmoid.com/)** — Web3 Messaging | Decentralized, end-to-end encrypted (AES-256-GCM) messaging with multi-chain wallet auth, token-gated communities, and in-chat crypto payments. | `Go` `React` `PostgreSQL` `WebSockets` `Ethereum` `Solana` |
+| **[chromeControl](https://github.com/abdulllkhan/chromecontrol)** — AI Sidebar | MCP-compliant Chrome sidebar that stays active across tabs for real-time page analysis and contextual AI help — no more tab-hopping between the chatbot and your work. | `TypeScript` `React` `MCP` |
+| **[Squaris](https://squaris.vercel.app/)** — Puzzle Game | Three procedurally-generated polycube packing puzzles (2D tiling + 3D 4×4×4 lattice) built over a single generation kernel. | `React` `TypeScript` `React Three Fiber` |
+| **Quantum-Classical NN** — Cancer Risk | Hybrid quantum-classical neural network predicting six-year lung-cancer risk from a single CT scan. | `Python` `Qiskit` `PyTorch` |
+| **QubitQuery** — RAG Assistant | Self-contained RAG assistant over lecture notes using OpenAI embeddings and a FAISS vector store. | `LangChain` `OpenAI API` `FAISS` |
+| **ELMS** — Limit Management | Enterprise exposure engine for 35M+ customers, flagging constraint breaches across products. | `Java` `Spring Boot` `MySQL` `Liquibase` |
+
+> More on my [portfolio →](https://abdulllkhan.github.io/)
