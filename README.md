@@ -29,6 +29,14 @@ Built ELMS, an exposure and limit-management engine covering more than 35 millio
 
 ## Featured work
 
+### OpenSigmoid
+
+[Live](https://opensigmoid.com/)
+
+End-to-end encrypted (AES-256-GCM) Web3 messaging with Ethereum and Solana wallet authentication, token-gated communities, and in-chat crypto payments, running on a real-time WebSocket layer with reconnection and delivery confirmation.
+
+Go · React · PostgreSQL · WebSockets
+
 ### TicTacPro
 
 [Play the game](https://tictacpro-lyart.vercel.app/) · [Code](https://github.com/abdulllkhan/ticTACpro-sim) · [Paper (PDF)](https://abdulllkhan.github.io/tictacpro.pdf)
@@ -44,14 +52,6 @@ Python · PyTorch · alpha-beta search · reinforcement learning
 A red-teaming entry for a Kaggle competition on tool-using LLM agents (gpt-oss-20b and Gemma). The search finds message chains that make an agent exfiltrate data through otherwise benign tool calls, and reached a public score of 73.88. The write-up also documents why the attack overfit the public guardrail: the hidden private guardrail, which tracks data provenance, blocked it.
 
 Python · llama.cpp · LLM red-teaming
-
-### OpenSigmoid
-
-[Live](https://opensigmoid.com/)
-
-End-to-end encrypted (AES-256-GCM) Web3 messaging with Ethereum and Solana wallet authentication, token-gated communities, and in-chat crypto payments, running on a real-time WebSocket layer with reconnection and delivery confirmation.
-
-Go · React · PostgreSQL · WebSockets
 
 ## Other projects
 
